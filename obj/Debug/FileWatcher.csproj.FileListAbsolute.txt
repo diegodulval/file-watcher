@@ -1,0 +1,6 @@
+C:\Users\NPDI\source\repos\WatcherLogTxt\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\NPDI\source\repos\WatcherLogTxt\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\NPDI\source\repos\WatcherLogTxt\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\NPDI\source\repos\WatcherLogTxt\ConsoleApp1\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\NPDI\source\repos\WatcherLogTxt\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\NPDI\source\repos\WatcherLogTxt\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
