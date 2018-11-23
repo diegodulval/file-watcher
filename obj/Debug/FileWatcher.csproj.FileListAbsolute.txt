@@ -1,0 +1,7 @@
+D:\Joao Pedro\PROJETOS\DLSYNC\src\file-watcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+D:\Joao Pedro\PROJETOS\DLSYNC\src\file-watcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+D:\Joao Pedro\PROJETOS\DLSYNC\src\file-watcher\bin\Debug\ConsoleApp1.exe.config
+D:\Joao Pedro\PROJETOS\DLSYNC\src\file-watcher\bin\Debug\ConsoleApp1.exe
+D:\Joao Pedro\PROJETOS\DLSYNC\src\file-watcher\bin\Debug\ConsoleApp1.pdb
+D:\Joao Pedro\PROJETOS\DLSYNC\src\file-watcher\obj\Debug\ConsoleApp1.exe
+D:\Joao Pedro\PROJETOS\DLSYNC\src\file-watcher\obj\Debug\ConsoleApp1.pdb
